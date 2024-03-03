@@ -1,6 +1,7 @@
 # Snapgram - MERN Social Media Application
 
 Snapgram is a MERN stack-based social media application that allows users to share photos and explore interesting content.
+Status: On build.
 
 ## Key Features
 
